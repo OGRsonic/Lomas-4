@@ -32,7 +32,7 @@
     margin: 20px auto;
     text-align: center;
     background-color: rgb(6, 255, 1);
-    background-image: url("https://static.wikia.nocookie.net/sonic/images/5/5a/Sonic_Drift_Sonic.png/revision/latest?cb=20200314012240");
+    background-image: "Sonic_Drift_Sonic.png";
     background-size: contain;
     border-radius: 50px;
 
