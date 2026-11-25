@@ -1,0 +1,82 @@
+#encabezado{
+    background-color: rgba(255, 34, 0, 0.286);
+    color: yellow;
+    margin: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu{
+    background-color: #4040FF;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.menu a{
+    margin: 100px;
+    color: whitesmoke;
+
+}
+
+.producto{
+    
+    line-height: 15px;
+    color: yellow;
+    font-family: cursive;
+    width: 440px;
+    height: 200px;
+    padding: 20px;
+    border:10px solid black;
+    margin: 20px auto;
+    text-align: center;
+    background-color: rgb(6, 255, 1);
+    background-image: url("https://static.wikia.nocookie.net/sonic/images/5/5a/Sonic_Drift_Sonic.png/revision/latest?cb=20200314012240");
+    background-size: contain;
+    border-radius: 50px;
+
+}
+.producto h1{
+    
+    -webkit-text-stroke: 2px #1000a0;
+    -webkit-text-fill-color: yellow;
+    animation: ease-in-out infinite;
+}
+.producto h2{
+     -webkit-text-stroke: 1px #1300c0;
+    -webkit-text-fill-color: yellow;
+
+}
+.producto p{
+        -webkit-text-stroke: 1px #1000a0;
+    -webkit-text-fill-color: yellow;
+    
+}
+.producto a{
+    background-color: red;
+    color: white;
+    font-size: large;
+}
+
+.producto .precio{
+    -webkit-text-stroke: 2px #1000a0; 
+    font-size: xx-large;
+}
+
+body{
+    background-image: url(https://da21w.e-veracruz.mx/sites/default/files/lomas_4_casas.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+input{
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+h2{
+    text-align:center;
+    color: #7b00ff;
+}
